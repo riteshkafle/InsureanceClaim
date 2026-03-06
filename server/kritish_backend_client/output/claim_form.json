@@ -1,0 +1,34 @@
+{
+  "member_information": {
+    "member_id_number": "212532523",
+    "group_number": "252335"
+  },
+  "patient_information": {
+    "patient_name": "Panthi, Aaryan",
+    "home_address": "426 Florida Ave NW",
+    "city": "Washington,DC",
+    "state": "",
+    "zip_code": "20001",
+    "phone_number": "2028077221",
+    "date_of_birth": "2025-11-17",
+    "gender": "male",
+    "relationship_to_policyholder": "Subscriber/Policyholder"
+  },
+  "provider_information": {
+    "provider_name": "howard University Hospital",
+    "provider_tax_id": "2121e4214",
+    "npi": "214124",
+    "group_or_facility_name": "howard University Hospital",
+    "provider_address": "426 Howard Ave NW, Washington, DC, 20001",
+    "services_rendered_address": "426 Howard Ave NW, Washington, DC, 20001",
+    "city": "Washington",
+    "state": "DC",
+    "zip_code": "",
+    "phone_number": "000212121"
+  },
+  "accident_information": {
+    "date_of_accident": "2025-11-14",
+    "type_of_accident": "Auto",
+    "description": "I dont know"
+  }
+}

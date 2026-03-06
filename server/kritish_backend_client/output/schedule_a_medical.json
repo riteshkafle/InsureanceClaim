@@ -1,0 +1,11 @@
+{
+  "taxpayer_information": {
+    "name": "Aaryan Panthi"
+  },
+  "medical_and_dental_expenses": {
+    "total_expenses": "4800.00",
+    "adjusted_gross_income": "3208000",
+    "seven_point_five_percent_of_agi": "240600.00",
+    "deduction_amount": "0.00"
+  }
+}
