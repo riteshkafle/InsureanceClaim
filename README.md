@@ -24,8 +24,7 @@ Using advanced **Optical Character Recognition (OCR)** and **Large Language Mode
 
 Users simply upload their documents and basic details, and the system processes everything in **minutes instead of days**.  
 
-## 🔄 Workflow  
-![Workflow](./client/public/Workflow.png)
+## Workflow  
 1. Enter demographics and incident details  
 2. Upload medical bills and insurance policies  
 3. Provide claim history information  
@@ -43,12 +42,10 @@ Users simply upload their documents and basic details, and the system processes 
 - Progress Dashboard: Live updates on where your submission stands from upload to submission.
 
 ## System Architecture  
+![Workflow Diagram](Workflow.png)
 - **Backend:** Python-based pipeline for OCR extraction, LLM-driven reasoning, PDF form filling, and automated document generation  
 - **Frontend:** React + TypeScript interface for intuitive navigation, real-time progress tracking, and document previews  
 
-![Workflow Diagram](Workflow.png)
-
----
 
 ## Project Value  
 **TrueClaim.AI** empowers individuals and families struggling with insurance paperwork and medical debt.  
