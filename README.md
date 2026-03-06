@@ -1,6 +1,6 @@
 # TrueClaim.AI  
 
-## 🎯 Challenge Statements Addressed  
+## Challenge Statements Addressed  
 - How might we help individuals navigate complex insurance claim processes and reduce medical debt burden?  
 - How might we automate and simplify the insurance claims filing process using AI technology to make healthcare more accessible?  
 - How might we reduce the **41% insurance claim denial rate** by improving claim accuracy and completeness? 
@@ -57,7 +57,7 @@ Users simply upload their documents and basic details, and the system processes 
 - Connects users with **financial assistance programs** for greater accessibility  
 - Auto-generates **tax deduction documents**, reducing medical expense burdens  
 
-#### 💡 Measurable Benefits  
+####  Measurable Benefits  
 - **Time Savings:** Claim processing reduced from **days → minutes**  
 - **Error Reduction:** Improved document accuracy and completeness  
 - **Financial Relief:** Unlocks hidden assistance and waiver opportunities  
@@ -65,7 +65,7 @@ Users simply upload their documents and basic details, and the system processes 
 
 For low-income families, TrueClaim.AI’s **income waiver assistance** can lead to substantial cost reductions — helping ease the **$220 billion in medical debt** currently affecting Americans
 
-## Tech Overview 💻
+## Tech Overview 
 
 * React 18.3.1
 * TypeScript
